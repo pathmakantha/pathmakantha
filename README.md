@@ -9,7 +9,7 @@ Building **WEB apps, Mobile apps, and Platforms**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pathmakantha)
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pathmakantha@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pathmakantha)
-[![Resume](https://img.shields.io/badge/Resume-CV-4CAF50?style=for-the-badge&logo=readdotcv&logoColor=white)](./Pathma_CV.pdf)
+[![Resume](https://img.shields.io/badge/Resume-CV-4CAF50?style=for-the-badge&logo=readdotcv&logoColor=white)](./Pathma_CV_2026_v2.pdf)
 
 </div>
 
