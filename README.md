@@ -4,7 +4,7 @@
 
 ### Software Engineer · React & React Native Developer
 
-Building for **Payments & E-commerce**
+Building **web apps, mobile apps, and platforms** 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pathmakantha)
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pathmakantha@gmail.com)
@@ -18,7 +18,7 @@ Building for **Payments & E-commerce**
 
 I'm a Software Engineer with 3+ years of experience building **React** and **React Native** applications for payment and e-commerce platforms. I focus on scalable mobile/web architecture, clean REST API integration, and shipping production-ready features.
 
-- 🔭 Currently building payment & e-commerce applications at **CodeScale**
+- 🔭 Currently building Web and Mobile (iOS & Android) applications at **CodeScale**
 - 🌱 Leveling up in **Next.js**, **AWS**, and **React Query / TanStack Query**
 - 💬 Ask me about React, React Native, TypeScript, or Redux Toolkit
 - 📫 Reach me at **pathmakantha@gmail.com**
