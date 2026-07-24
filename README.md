@@ -68,20 +68,7 @@ I'm a Software Engineer with 3+ years of experience building **React** and **Rea
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 
----
 
-### 📊 GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=pathmakantha&show_icons=true&theme=default&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pathmakantha&layout=compact&hide_border=true" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=pathmakantha&hide_border=true" alt="GitHub Streak" />
-
-</div>
-
----
 
 <div align="center">
 
