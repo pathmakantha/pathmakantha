@@ -4,7 +4,7 @@
 
 ### Software Engineer · React & React Native Developer
 
-Building **web apps, mobile apps, and platforms** 
+Building **WEB apps, Mobile apps, and Platforms** 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pathmakantha)
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pathmakantha@gmail.com)
